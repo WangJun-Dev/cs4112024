@@ -1,2 +1,0 @@
-from wildlife_tracker.habitat_management.habitat import Habitat
-from wildlife_tracker.habitat_management.habitat_manager import HabitatManager
